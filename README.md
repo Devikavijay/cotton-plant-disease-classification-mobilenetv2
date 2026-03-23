@@ -23,6 +23,9 @@ Target Spot — 390 images
 
 This dataset provides a fairly balanced distribution across classes, helping the model learn effectively.
 
+### Dataset - download here:
+https://drive.google.com/drive/folders/1f8J6IdbnmtCH1-5aDV5W9YwlWFIyOKmH?usp=sharing
+
 ### Tools & Technologies Used
 Python
 TensorFlow / Keras
